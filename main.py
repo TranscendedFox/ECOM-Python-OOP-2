@@ -41,7 +41,6 @@ if __name__ == '__main__':
     print(sum_of_array([1,1,2,3,5,8]))
 
     #6
-
     def length_of_string(string):
 
         length = 0
